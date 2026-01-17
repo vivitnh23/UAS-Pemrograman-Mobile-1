@@ -5,6 +5,12 @@
 # Mata Kuliah : Pemrograman Mobile (UAS)
 # Dosen	: Donny Maulana, S.Kom., M.M.S.I.
 
-## Link ClickUp
+## Link Github
+https://github.com/vivitnh23/UAS-Pemrograman-Mobile-1.git
 
-## Link Youtube
+## Link YouTube UX Prototype : 
+https://youtu.be/thRXJxSVqeo?si=K0bNILVcPDjziHmT
+
+## Link ClickUp : 
+https://app.clickup.com/90181792771/v/b/s/90187104559
+
